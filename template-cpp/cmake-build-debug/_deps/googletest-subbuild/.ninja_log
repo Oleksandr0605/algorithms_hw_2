@@ -1,0 +1,21 @@
+# ninja log v5
+0	3	1698060431311595458	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	11d86418a7a87729
+0	3	1698060431311595458	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	11d86418a7a87729
+4	3686	1698060434995603889	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c56aae31ed4682fc
+4	3686	1698060434995603889	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c56aae31ed4682fc
+3686	3692	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	279d25aea2f6a5d1
+3686	3692	0	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	279d25aea2f6a5d1
+3692	3695	1698060435003603907	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	dc18a1a11e1a2cd2
+3692	3695	1698060435003603907	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	dc18a1a11e1a2cd2
+3695	3697	1698060435003603907	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	15259c5ec060d4af
+3695	3697	1698060435003603907	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	15259c5ec060d4af
+3697	3699	1698060435007603916	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	eae91a3094f21809
+3697	3699	1698060435007603916	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	eae91a3094f21809
+3699	3702	1698060435011603926	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	eac257ce614079e5
+3699	3702	1698060435011603926	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	eac257ce614079e5
+3702	3704	1698060435011603926	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	21751e2a89f6c2b2
+3702	3704	1698060435011603926	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	21751e2a89f6c2b2
+3704	3707	1698060435015603935	CMakeFiles/googletest-populate-complete	799105a6e8cddc60
+3704	3707	1698060435015603935	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	799105a6e8cddc60
+3704	3707	1698060435015603935	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	799105a6e8cddc60
+3704	3707	1698060435015603935	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	799105a6e8cddc60

@@ -1,0 +1,21 @@
+# ninja log v5
+1	4	1698060435471604979	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-mkdir	cf48efa5312766b9
+1	4	1698060435471604979	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-mkdir	cf48efa5312766b9
+4	1513	1698060436979608430	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-download	4f8ce5caa65e1f2a
+4	1513	1698060436979608430	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-download	4f8ce5caa65e1f2a
+1513	1519	0	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-update	d631e2b25e5b8b70
+1513	1519	0	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-update	d631e2b25e5b8b70
+1519	1522	1698060436987608448	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-patch	d4d57f91511e5d0f
+1519	1522	1698060436987608448	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-patch	d4d57f91511e5d0f
+1522	1524	1698060436991608457	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-configure	da72358462a2434a
+1522	1524	1698060436991608457	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-configure	da72358462a2434a
+1524	1527	1698060436995608467	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-build	42ad8452b487ba66
+1524	1527	1698060436995608467	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-build	42ad8452b487ba66
+1527	1530	1698060436995608467	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-install	eada2bc1100040b7
+1527	1530	1698060436995608467	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-install	eada2bc1100040b7
+1530	1532	1698060436999608475	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-test	4a7a2bc802c9ebf3
+1530	1532	1698060436999608475	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-test	4a7a2bc802c9ebf3
+1532	1536	1698060437003608484	CMakeFiles/benchmark-populate-complete	ada0e894546a6a7c
+1532	1536	1698060437003608484	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-done	ada0e894546a6a7c
+1532	1536	1698060437003608484	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/CMakeFiles/benchmark-populate-complete	ada0e894546a6a7c
+1532	1536	1698060437003608484	/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/template-cpp/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-done	ada0e894546a6a7c

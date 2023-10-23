@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2 Select CMakeLists.txt

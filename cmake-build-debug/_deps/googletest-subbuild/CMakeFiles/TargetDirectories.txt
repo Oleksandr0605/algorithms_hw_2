@@ -1,0 +1,3 @@
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/home/ivaniuk/UCU/alghorithms/Homework/algorithms_hw_2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
